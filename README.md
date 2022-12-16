@@ -15,7 +15,7 @@ The project was completed using the [Bengaluru House Price Data](https://www.kag
 * K-fold Cross Validation etc.
 
 ## Technology Used
-* Model was built using *Scikit-Learn* and *Linear Regression*
+* [Model](model/Real_Estate_Price_Prediction.ipynb) was built using *Scikit-Learn* and *Linear Regression*
 * Performed Data Cleaning using *Numpy* and *Pandas*
 * Used *Matplotlib* for Data Visualization
 * Applied *GridSearchCV* for Hyperparameter Tuning
